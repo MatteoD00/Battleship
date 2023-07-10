@@ -1,0 +1,29 @@
+Benvenuti in questa battaglia navale.
+
+Lo scopo del gioco e' affondare le navi dell'avversario.
+Ogni giocatore ha a disposizione una mappa quadrata 10x10 e una flotta composta da 9 navi di diverse lunghezze.
+Prima di iniziare il gioco, ogni giocatore posiziona le navi segretamente.
+Terminati i preparativi, il gioco si svolge a turni alternati in cui ogni giocatore spara un colpo in una delle caselle non ancora colpite della mappa dell'avversario.
+Le navi vengono affondate una volta che ogni casella da loro occupata e' stata colpita.
+Vince il primo giocatore che affonda tutte le navi dell'avversario.
+
+Gli spari sono contrassegnati con un '*' se si e' sparato in mare e con un '#' se si e' colpita una nave.
+
+Buona partita!
+
+
+-----------------------------------------------------------------------------------------
+
+
+Welcome to this naval battle.
+
+The aim of the game is to sink the opponent's ships.
+Each player has a 10x10 square map and a fleet consisting of 9 ships of different lengths.
+Before starting the game, each player secretly positions the ships.
+Once the preparations are finished, the game is played in alternating turns in which each player fires a shot into one of the unkilled squares on the opponent's map.
+Ships are sunk once every square they occupy has been hit.
+The first player to sink all the opponent's ships wins.
+
+Shots are marked with a '*' if you have shot at sea and with a '#' if you have hit a ship.
+
+Have a good game!
